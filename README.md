@@ -41,7 +41,7 @@ To get started, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/sophor-car-rental_website.git
-cd sophor-car-rental
+cd  AutoFlow Rentals
 
 Set up the Backend
 
@@ -88,14 +88,7 @@ Usage
     Admin Features: Admins can manage car listings and users directly from the admin panel.
 
 
-Deployment
 
-The application is deployed using Heroku for the backend and Netlify for the frontend. You can view the live demo here:
-
-    Frontend (Netlify)
-    Backend (Heroku)
-
-Contributing
 
 We welcome contributions to this project! If you find a bug or want to add a feature, please follow these steps:
 
