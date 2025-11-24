@@ -1,8 +1,8 @@
-# Sophor Car Rental
+# Car Rental Web
 
 ## Overview
 
-Sophor Car Rental is an online platform for renting cars. This web application allows users to search for available cars, view detailed information about each car, and manage their bookings. The system includes user authentication, responsive design, and a backend for handling the car data and booking system.
+This web application allows users to search for available cars, view detailed information about each car, and manage their bookings. The system includes user authentication, responsive design, and a backend for handling the car data and booking system.
 
 Built using **React**, **Node.js**, and **MongoDB**, Sophor Car Rental is designed to be intuitive and responsive on both mobile and desktop devices.
 
