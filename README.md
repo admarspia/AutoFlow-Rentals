@@ -1,9 +1,8 @@
-# Car Rental Web
+# AutoFlow Rentals
 
 ## Overview
 
-This web application allows users to search for available cars, view detailed information about each car, and manage their bookings. The system includes user authentication, responsive design, and a backend for handling the car data and booking system.
-
+AutoFlow Rentals is a modern full-stack web application that allows users to browse available cars, view detailed specifications, and book rentals with ease. The platform includes user authentication, a complete booking system, and an admin dashboard for managing cars and users.
 Built using **React**, **Node.js**, and **MongoDB**, Sophor Car Rental is designed to be intuitive and responsive on both mobile and desktop devices.
 
 ---
