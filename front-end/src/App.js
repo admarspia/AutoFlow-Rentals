@@ -16,11 +16,10 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 
 
 function App() {
-  const location = useLocation(); // useLocation is now safe to use here
+  const location = useLocation(); 
 
   return (
     <div>
-      {/* Conditionally render the Header only if the current path is not "/" */}
       {location.pathname !== "/" && <Header />}
 
       <Routes>
